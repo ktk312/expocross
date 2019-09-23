@@ -1,2 +1,2 @@
 (window.webpackJsonp=window.webpackJsonp||[]).push([[0],{29:function(e,n,t){"use strict";t.d(n,"a",(function(){return u}));var a=t(0),o=t.n(a),r=t(3),c=t(26),l=t(12);function u(){return o.a.createElement(l.a,{style:i.container},o.a.createElement(c.a,null,"Open up App.js to start working on your app!"),o.a.createElement(l.a,{style:{width:"80%",height:200,backgroundColor:"yellow"}},o.a.createElement(c.a,null," hello web ")))}var i=r.a.create({container:{flex:1,backgroundColor:"#fff",alignItems:"center",justifyContent:"center"}})},50:function(e,n,t){e.exports=t(67)}},[[50,1,2]]]);
-//# sourceMappingURL=../../5147cae5d7dfaae1ef89.map
+//# sourceMappingURL=../../5b5e6b9e0659ae57fe94.map
