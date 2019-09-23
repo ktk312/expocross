@@ -44,16 +44,16 @@ self.__precacheManifest = [
     "url": "/expo-gh-pages/./fonts/Ionicons.ttf"
   },
   {
-    "revision": "5e695e96a003a79f7f97060bf49409a9",
-    "url": "/expo-gh-pages/expo-service-worker.js"
+    "revision": "7a7bc7ead25db795e58b336f04d2624c",
+    "url": "/expo-gh-pages/favicon.ico"
   },
   {
     "revision": "a37b0c01c0baf1888ca812cc0508f6e2",
     "url": "/expo-gh-pages/./fonts/MaterialIcons.ttf"
   },
   {
-    "revision": "7a7bc7ead25db795e58b336f04d2624c",
-    "url": "/expo-gh-pages/favicon.ico"
+    "revision": "5e695e96a003a79f7f97060bf49409a9",
+    "url": "/expo-gh-pages/expo-service-worker.js"
   },
   {
     "revision": "c6aef942e3668158ec29d4adcb2e768f",
